@@ -1,0 +1,20 @@
+.odd,
+.differentfontsize{
+    background-color: #FFC0CB; 
+    font: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+.differentfontsize{
+    font-size: 24px; 
+}
+
+#blue{
+    color: #0000ff; 
+    font-size: 36px; 
+}
+
+#green{
+    background-color: #7CFC00; 
+    font-size: 24px; 
+    font-weight: bold; 
+}
